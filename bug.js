@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly to my elements.  I had included the Tailwind directives in my PostCSS config and run `npm run build` but some classes like `bg-red-500` were simply being ignored by the browser. My project uses Vite.
